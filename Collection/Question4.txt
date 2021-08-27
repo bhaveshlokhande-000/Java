@@ -1,0 +1,7 @@
+ans1:- List as we normally have to store name.
+
+ans2:- Set as unique constraint is required(each name will be used only once).
+
+ans3:- Map where key is first name and value is count.
+
+ans4:- Queue as waiting list will be on FCFS basis.
